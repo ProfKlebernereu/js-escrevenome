@@ -61,7 +61,7 @@ function verificaColisaoBorda() {
 }
 
 function mostraRaquete(x,y) {
-    rect(x, y, raqueteComprimento, raqueteAltura);
+    rect(x, y, raqueteComprimento, raqueteAltura);.
 }
 
 function movimentaMinhaRaquete() {
